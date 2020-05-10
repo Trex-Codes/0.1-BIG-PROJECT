@@ -179,15 +179,6 @@ p.text-article_2{
     color: black;
 }
 
-span.responsive{
-    color: darkviolet;
-}
-
-span.football{
-    color:#FF5733;
-}
-/* hr article 2 */
-
 hr.article-hr_2{
 	border: solid 1px black;
     width: 55%;
@@ -260,13 +251,6 @@ h2.title-article_3{
     color: black;
 }
 
-/* spans */
-
-span.blog{
-	color: #1CE421;
-	font-weight: bold;
-}
-
 /* ARTICLE 4 */
 
 #article_4{
@@ -323,28 +307,6 @@ p.text-article-4{
     color: black;
 }
 
-/* spans */
-
-span.goal{
-	color: #E75A5A;
-	font-weight: bold;
-}
-
-span.time{
-	color: #219CEA;
-	font-weight: bold;
-}
-
-span.actitud{
-	color: #00FF5A;
-	font-weight: bold;
-}
-
-span.hard{
-	color: #9600FF;
-	font-weight: bold;
-}
-
 /* ARTICLE 5 */
 
 #article_5{
@@ -399,13 +361,6 @@ p.text-article_5{
     margin: 15px;
     font-family: sans-serif;
     color: black;
-}
-
-/* spans */
-
-span.always{
-	color: #F67A00;
-	font-weight: bold;
 }
 
 /* SECTION 3 */
@@ -473,9 +428,6 @@ aside.box-continue{
     top: 90px;
 }
 
-aside.box-continue:hover{
-    background-color: green;
-}
 /* <a> box continue */
 
 a.box-continue{
@@ -537,10 +489,6 @@ aside.box-google{
     border-radius: 5px;
 }
 
-aside.box-google:hover{
-    background-color: #FB6206;
-}
-
 /* a google */
 
 a.box-google{
@@ -569,11 +517,6 @@ aside.box-facebook{
     top: 100px;
     border-radius: 5px;
 }
-
-aside.box-facebook:hover{
-    background-color:#7940D7;
-}
-
 
 /* a box facebook */
 
@@ -614,10 +557,6 @@ span.sign-up{
 	top: 160px;
 	margin-left:390px;
 	font-weight: bold;
-}
-
-span.sign-up:hover{
-    color: #7D8446;
 }
 
 #a-span{
@@ -685,30 +624,30 @@ h2.text-article_8{
 /* ARTICLE 9 */
 
 #article_9{
-	background-color: #F7F6F6;
-	width: 430px;
-	height: 415px;
-	position: relative;
-	margin-left: 1120px;
-	bottom: 1255px;
-	box-shadow:  0 0 10px #F7F6F6;
+    background-color: #F7F6F6;
+    bottom: 1255px;
+    box-shadow:  0 0 10px #F7F6F6;
+    height: 415px;
+    margin-left: 1120px;
+    position: relative;
+    width: 430px;
 }
 
 img.images-article_9{
-	height:23em;
-	background-size: cover;
-	width: 100%;
-	box-shadow:  0 0 30px #4AA07F;
+    background-size: cover;
+    box-shadow:  0 0 30px #4AA07F;
+    height:23em;
+    width: 100%;
 }
 
 h2.text-article_9{
-	color:#222222;
-	font-family: inherit;
-	letter-spacing: 8px;
-	font-weight: normal;
-	text-align: center;
-	position: relative;
-	bottom: 10px;
+    bottom: 10px;
+    color:#222222;
+    font-family: inherit;
+    font-weight: normal;
+    letter-spacing: 8px;
+    position: relative;
+    text-align: center;
 }
 
 /* ARTICLE 10 */
@@ -756,4 +695,19 @@ h2.text-article_10{
     text-align: center;
     position: relative;
     top: 20px;
+}
+
+span.gitTrex a{
+    text-decoration: none;
+    color:white;
+}
+
+span.gitTrex a:hover{
+    color: red;
+    font-family: inherit;
+    font-size: 18px;
+}
+
+a:nth-child(n):hover{
+    color: yellow;
 }

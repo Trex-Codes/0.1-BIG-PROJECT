@@ -52,8 +52,6 @@ h1.texto-header{
 	color: #1E7277;
 }
 
-
-
 /* FIN DE IMG AVATAR */
 
 /* INICIO DE DIV DE PICTURES */
@@ -69,7 +67,6 @@ aside.aside-picture1{
 	background-color: rgba(93, 69, 124  ,0.2 );
 	border-radius: 5px;
 	box-shadow: 0 0 1px white;
-
 }
 
 img.picture1{
@@ -323,7 +320,17 @@ p.copyright-end{
 	margin-left: 550px;
 	font-family: inherit;
 	letter-spacing: 3px;
-
 }
 
 /* fin de linea central final */
+
+#CPGit{
+	text-decoration: none;
+	color: white;
+	font-family: inherit;
+}
+
+#CPGit:hover{
+	color: lightgreen;
+	font-weight: bold;
+}

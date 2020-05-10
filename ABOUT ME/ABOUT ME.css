@@ -223,4 +223,12 @@ p.sub-article-text-2{
     top: 30px;
 }
 
+span.juan a{
+	text-decoration: none;
+	font-family: inherit;
+	color: white;
+}
 
+span.juan a:hover{
+	color: lightblue;
+}
