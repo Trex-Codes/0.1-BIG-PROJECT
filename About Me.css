@@ -1,13 +1,12 @@
 /* background-body */
 body{
 		background-color: #000;
-		background-image: url("IMAGES/background.jpg");
+		background-image: url("Assets/background.jpg");
 		background-size: cover;
 		background-position: top center;
 }
 
 /* h1 title principal */
-
 #TEXT-TITLE{
 	color: #ffffff;
 	font-family: inherit;
@@ -20,7 +19,6 @@ body{
 }
 
 /* hr */
-
 #underline{
 	width: 50%;
 	position: relative;
@@ -28,7 +26,6 @@ body{
 }
 
 /* h2 context */
-
 #context-header{
 	color: #ffffff;
 	font-family: inherit;
@@ -42,9 +39,8 @@ body{
 }
 
 /* SECTION */
-
 #section{
-	background-image: url(IMAGES/back.jpg);
+	background-image: url(Assets/back.jpg);
 	background-size: cover;
 	width: 1573px;
 	height: 850px;
@@ -53,7 +49,6 @@ body{
 }
 
 /* article 1 */
-
 #article-1{
 	background-color: #ffffff;
 	width: 520px;
@@ -65,7 +60,6 @@ body{
 }
 
 /* photo-3 */
-
 img.img-1{
 	width: 520px;
 	height: 460px;
@@ -74,7 +68,6 @@ img.img-1{
 }
 
 /* h2 sub */
-
 h2.sub-1{
 	font-family: inherit;
 	background-size: cover;
@@ -94,7 +87,6 @@ h2.sub-1{
 }
 
 /* sub article 1 */
-
 #sub-article-1{
 	background-color: white;
 	position: relative;
@@ -106,7 +98,6 @@ h2.sub-1{
 }
 
 /* text title h2  */
-
 p.sub-article-text{
 	color: black;
 	font-size: inherit;
@@ -118,7 +109,6 @@ p.sub-article-text{
 }
 
 /* img sub article */
-
 #img-sub-article-1{
 	width: 25%;
 	height: 40%;
@@ -128,9 +118,8 @@ p.sub-article-text{
 }
 
 /* SECTION 2 */
-
 #section-2{
-	background-image: url(IMAGES/sifty.jpg);
+	background-image: url(Assets/sifty.jpg);
 	background-size: cover;
 	width: 1573px;
 	height: 750px;
@@ -139,7 +128,6 @@ p.sub-article-text{
 }
 
 /* article sub 2 the 1 */
-
 #sub-article-the2_1{
 	background-color: #ffffff;
 	width: 460px;
@@ -151,7 +139,6 @@ p.sub-article-text{
 }
 
 /* img article sub 2 the 1 */
-
 #img-sub-article-the2_1{
 	width:100%;
 	height: 86%;
@@ -172,7 +159,6 @@ h2.h2-sub-article-the2_1{
 }
 
 /* SUB ARTICLE THE 2_2 */
-
 #sub-article-the2_2{
 	background-color: white;
 	position: relative;
@@ -184,7 +170,6 @@ h2.h2-sub-article-the2_1{
 }
 
 /* img sub article 2 */
-
 #img-sub-article-2{
 	position: relative;
 	top: 35px;
@@ -192,7 +177,6 @@ h2.h2-sub-article-the2_1{
 }
 
 /* text article 2 */
-
 p.sub-article-text-2{
 	color: black;
 	font-size: inherit;
@@ -204,7 +188,6 @@ p.sub-article-text-2{
 }
 
 /* FOOTER END */
-
  #footer-end{
  	background-color: #3E7FAD;
     width: 1573px;

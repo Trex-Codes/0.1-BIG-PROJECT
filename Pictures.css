@@ -1,7 +1,6 @@
 /* INICIO DE FONDO DEL CUERPO */
-
 body{
-	background-image: url(IMAGES/background.jpg);
+	background-image: url(Assets/background2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -9,7 +8,6 @@ body{
 /* FIN DEL FONDO DEL CUERPO*/
 
 /* INICIO DE IMG AVATAR */
-
 #header{
 	position: relative;
 	margin-left: 606px;
@@ -31,7 +29,6 @@ span.avatar{
     background-color: rgba(255, 255, 255, 0.075);
     background-size:cover;
 }
-
 
 h1.texto-header{
 	color: #BCB5B5;
@@ -57,7 +54,6 @@ h1.texto-header{
 /* INICIO DE DIV DE PICTURES */
 
 /* inicio de aside picture 1 */
-
 aside.aside-picture1{
 	width: 330px;
 	height: 250px;
@@ -94,7 +90,6 @@ h2.comment-image-1{
 
 
 /* inicio de aside picture 2 */
-
 aside.aside-picture2{
 	width: 320px;
 	height: 520px;
@@ -129,7 +124,6 @@ h2.comment-image-2{
 /* fin de aside picture 2 */
 
 /*inicio de aside picture 3 */
-
 aside.aside-picture3{
 	width: 320px;
 	height:400px;
@@ -164,7 +158,6 @@ h2.comment-image-3{
 /* fin de aside picture 3  */
 
 /* inicio de aside picture 4 */
-
 aside.aside-picture4{
 	width: 330px;
 	height:440px;
@@ -199,7 +192,6 @@ h2.comment-image-4{
 /* fin de aside picture 4 */
 
 /* inicio de aside picture 5 */
-
 aside.aside-picture5{
 	width: 320px;
 	height: 520px;
@@ -234,7 +226,6 @@ h2.comment-image-5{
 /* fin de aside picture 5 */
 
 /* inicio de aside picture 6 */
-
 aside.aside-picture6{
 	width: 330px;
 	height: 400px;
@@ -269,7 +260,6 @@ h2.comment-image-6{
 /* fin de aside picture 6 */
 
 /* inicio de aside picture 7 */
-
 aside.aside-picture7{
 	width: 320px;
 	height: 600px;
@@ -304,7 +294,6 @@ h2.comment-image-7{
 /* fin de aside picture 7 */
 
 /* inicio de linea centraL final */
-
 hr.linea-central-final{
 	border:1px  solid   rgba(249, 11, 47,0.5);
 	width: 35%;
@@ -323,7 +312,6 @@ p.copyright-end{
 }
 
 /* fin de linea central final */
-
 #CPGit{
 	text-decoration: none;
 	color: white;
