@@ -1,9 +1,9 @@
 /* background-body */
 body{
-		background-color: #000;
-		background-image: url("Assets/background.jpg");
-		background-size: cover;
-		background-position: top center;
+	background-color: #000;
+	background-image: url("Assets/background.jpg");
+	background-size: cover;
+	background-position: top center;
 }
 
 /* h1 title principal */
