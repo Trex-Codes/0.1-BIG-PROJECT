@@ -25,7 +25,7 @@ _pictures is about an idea of recursive or a modern design by depicting differen
 ![img](https://github.com/juan1305/0.1-BIG-PROJECT/blob/master/Assets/PicturesGif.gif)
 
 ## Author(s) ✒️
-- **Juan Giraldo** - _Initial Work, Documentation_ [Trex_Codes](https://github.com/Trex-Codes)
+- _Initial Work, Documentation_ [Trex-Codes](https://github.com/Trex-Codes)
 
 ## Contributions 🖇️
 _The project is currently not in phase for any modification, it may be in the future where an external branch is developed in which changes are made, any developer can also support the idea_ 💬
